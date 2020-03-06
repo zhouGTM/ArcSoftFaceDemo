@@ -14,5 +14,4 @@ public interface MybatisUserFaceInfoMapper {
     void insertUserFaceInfo(UserFaceInfo userFaceInfo);
 
     List<FaceUserInfo> getUserFaceInfoByGroupId(Integer groupId);
-
 }
