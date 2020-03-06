@@ -1,3 +1,12 @@
+ 
+ ![](qrcode_for_gh_d49c67bf15ef_258.jpg)
+ 
+### 关注公众号：程序员内点事
+ 
+###  更有有意思、涨知识的项目等着你
+ 
+### 有任何技术问题，欢迎随时沟通
+
 ## 开发环境准备：
 ###开发使用到的软件和工具：
 * Jdk8、mysql5.7、libarcsoft_face.dll(so)、libarcsoft_face_engine.dll(so)、libarcsoft_face_engine_jni.dll(so)、idea
