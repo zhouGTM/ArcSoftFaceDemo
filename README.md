@@ -35,11 +35,13 @@
 
  
 * 启动项目
-    * 在com.arcsoft.facedemo包下，右击Application，选择Run ‘Application’
+    * 右键Application，选择Run ‘Application’
  
 
 * 项目访问地址
     * http://127.0.0.1:8080/demo
+
+### 更详细的流程参考：
 
 ### 项目流程图
  ![](人脸流程.png)
