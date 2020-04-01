@@ -31,5 +31,20 @@ public class UserFaceInfo {
     private byte[] faceFeature;
 
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setGroupId(Integer groupId) {
+        this.groupId = groupId;
+    }
+
+    public void setFaceFeature(byte[] faceFeature) {
+        this.faceFeature = faceFeature;
+    }
+
+    public void setFaceId(String faceId) {
+        this.faceId = faceId;
+    }
 }
 
